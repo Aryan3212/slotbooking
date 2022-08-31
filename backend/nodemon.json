@@ -1,0 +1,10 @@
+{
+  "watch": [
+    "*.js"
+  ],
+  "ext": "js",
+  "ignore": [
+    "*.test.js"
+  ],
+  "delay": "3"
+}
